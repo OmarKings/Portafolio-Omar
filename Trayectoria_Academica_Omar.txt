@@ -1,0 +1,47 @@
+**Mi Trayectoria Académica Durante los Tres Primeros Semestres**
+
+A lo largo de mis primeros tres semestres en el Instituto Tecnológico y de Estudios Superiores de Monterrey, he tenido la oportunidad de participar en una serie de proyectos multidisciplinarios que me han ayudado a desarrollar habilidades técnicas, de liderazgo y análisis crítico. Cada uno de estos proyectos ha representado un desafío único que me ha permitido crecer tanto académica como personalmente. A continuación, resumo mis principales logros y aprendizajes de cada semestre.
+
+**Primer Semestre**
+
+En mi primer semestre, me enfoqué en fortalecer mis fundamentos en programación y matemáticas. En **Programación Orientada a Objetos (POO)**, desarrollé aplicaciones prácticas en C++ utilizando estructuras de control, validación de datos y manejo de archivos. Estos conocimientos me permitieron crear un sistema de almacenamiento de información de productos en un archivo CSV, aplicando buenas prácticas de programación orientada a objetos.
+
+También participé en un proyecto de **Modelación Matemática Fundamental**, en el cual utilicé el **Método de Euler** para modelar la difusión de una enfermedad en una población universitaria. Este proyecto fue una excelente oportunidad para aplicar ecuaciones diferenciales y trabajar de manera colaborativa con otros compañeros.
+
+En la asignatura de **Fundamentación de la Estructura y Transformación de la Materia**, investigué los impactos de los pesticidas en el ambiente, lo que me permitió explorar el ámbito de la química desde una perspectiva más enfocada en la sostenibilidad.
+
+En **Modelación de la Ingeniería y Ciencias**, analicé el uso de **energías renovables** en México y cómo estas podrían contribuir a un futuro más sostenible. Me llamó especialmente la atención la importancia de la inversión en estas tecnologías, y cómo los factores económicos influyen en su implementación.
+
+Por último, trabajé en la **Modelación Computacional del Movimiento**, donde realicé simulaciones de movimientos parabólicos. Utilicé herramientas como MATLAB para analizar y comparar resultados, aplicando conceptos de física y matemáticas en situaciones prácticas.
+
+**Segundo Semestre**
+
+Durante mi segundo semestre, me involucré en proyectos que abarcaban desde la innovación y la creatividad hasta el análisis técnico de sistemas electromagnéticos. Uno de los trabajos más interesantes fue el **Análisis Estadístico de Sistemas de Riego**, donde propusimos un sistema de riego por goteo asistido por gravedad para cultivos de maíz, que busca ser una alternativa sostenible para los agricultores.
+
+En la asignatura de inglés, desarrollé un proyecto llamado **"Manners"**, en el cual profundicé sobre la importancia de los buenos modales en la sociedad. Fue un ejercicio que me ayudó a fortalecer mis habilidades de comunicación en inglés, además de fomentar un mejor entendimiento sobre la diversidad cultural.
+
+En la **Modelación Computacional Aplicando Leyes de Conservación**, trabajé con simulaciones del desplazamiento de automóviles en pistas de carreras, tomando en cuenta factores como la fricción. Mi rol principal fue en el modelado y simulación computacional, donde aprendí mucho sobre cómo aplicar la física para identificar riesgos y mejorar el rendimiento.
+
+Como parte de la materia **Emprende con Propósito**, realicé un análisis del impacto de CEMEX en los Objetivos de Desarrollo Sostenible, especialmente en el área de acción climática. Me permitió comprender la importancia de la sostenibilidad en las estrategias empresariales y cómo estas pueden tener un impacto significativo en el medio ambiente.
+
+Otro proyecto destacable fue el **Reto de Electromovilidad**, donde lideré un equipo para diseñar un prototipo de vehículo basado en principios de electromagnetismo. El prototipo estaba destinado a reducir las emisiones de gases de efecto invernadero en el transporte industrial. Este trabajo me permitió poner en práctica mis conocimientos sobre física y electromagnetismo, además de explorar soluciones innovadoras para la movilidad sostenible.
+
+En **Innovación y Procesos Creativos**, colaboré en el diseño de productos como gorras y sudaderas con brocado de telar de cintura, combinando técnicas artesanales con un diseño moderno. Este proyecto me ayudó a comprender mejor el mercado y a conectar con los consumidores a través de la autenticidad y la creatividad.
+
+**Tercer Semestre**
+
+Durante el tercer semestre, participé en proyectos más complejos que me llevaron a aplicar conceptos avanzados de matemáticas, ética y tecnología.
+
+Uno de mis proyectos más interesantes fue el **Análisis de Ecuaciones Diferenciales Aplicadas al Bungee Jumping**. Aquí modelamos matemáticamente el comportamiento de un salto en bungee utilizando ecuaciones diferenciales, lo cual nos permitió predecir la dinámica del salto y garantizar la seguridad del saltador. Aprendí a aplicar principios matemáticos complejos a problemas reales, como la elasticidad de la cuerda y la resistencia del aire, asegurando que el equipo cumpliera con las condiciones necesarias para evitar accidentes.
+
+En la asignatura de **Ética Práctica**, colaboré en el análisis de los capítulos 7 y 8 del libro de Peter Singer, discutiendo temas como la eutanasia y la distribución de la riqueza. Esta experiencia me permitió reflexionar sobre dilemas morales y comprender la importancia de la ética global en la toma de decisiones. Analizamos cómo las naciones ricas tienen la responsabilidad de ayudar a los países en condiciones más desfavorables y debatimos el valor de la vida humana frente al sufrimiento evitable.
+
+En el campo de la **Implementación de Internet de las Cosas (IoT)**, investigué y trabajé con algoritmos de redes neuronales, como el perceptrón y el backpropagation. Estos algoritmos son la base de las redes neuronales modernas y tienen aplicaciones en clasificación de datos y reconocimiento de patrones. Además, realicé una **Simulación de Circuitos con Tinkercad**, donde diseñé circuitos utilizando compuertas lógicas como XOR, NAND y NOR. Esta práctica me permitió aplicar conceptos de lógica digital y trabajar en el diseño de circuitos eficientes.
+
+Otro proyecto que disfruté fue la **Modelación de Sistemas Mínimos Arquitectónicos**, donde trabajamos con el lenguaje ensamblador MARIE para calcular el precio de un terreno considerando la aplicación de descuentos. Fue una experiencia que me ayudó a comprender mejor las limitaciones de los sistemas de bajo nivel y a utilizar la programación para resolver problemas prácticos.
+
+Finalmente, en la práctica de **Mapas de Karnaugh** dentro de la materia de IoT, optimicé el diseño de circuitos lógicos mediante la simplificación de funciones. Este trabajo me enseñó a reducir circuitos para hacerlos más eficientes, lo cual es una habilidad clave en el diseño de sistemas digitales.
+
+---
+
+Esta trayectoria de tres semestres ha sido muy enriquecedora, ya que me ha permitido involucrarme en proyectos de distintas áreas, desde el desarrollo de software y el análisis físico-matemático, hasta la innovación de productos y la reflexión ética. Considero que cada uno de estos proyectos ha fortalecido mi perfil como un estudiante comprometido, con un enfoque hacia la sostenibilidad, la innovación y la responsabilidad social. Estoy emocionado por los desafíos que me esperan y listo para seguir creciendo profesional y personalmente.
